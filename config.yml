@@ -15,7 +15,7 @@ params:
         - name: "instagram"
           url: "https://www.instagram.com/wingsterlai/"
         - name: "email"
-          url: "karita82@gmail.com"
+          url: "mailto:karita82@gmail.com"
   
   cover:
     linkFullImages: true
