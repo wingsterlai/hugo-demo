@@ -7,8 +7,8 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: Hi, this is Wingster.
+    Content: 歡迎來到我的部落格！這裡會記錄所有學習心得、閱讀心得，以及分享我的興趣愛好的地方。在這個部落格中，你會發現各種各樣的主題內容，包括命理、易經、設計、職涯、科技、個人成長等等。我嘗試通過不同的角度來思考和探討這些主題，並將這些想法記錄下來。同時，我還將在這裡分享我最喜愛的書籍、電影和其他創意作品。希望這個部落格能夠成為一個充滿啟發和思考的地方，同時也能夠幫助你發掘自己的興趣和激發創造力。謝謝你來訪！
   socialIcons: # optional
         - name: "facebook"
           url: "http://facebook.com"
