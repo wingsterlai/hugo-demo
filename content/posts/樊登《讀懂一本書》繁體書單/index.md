@@ -9,6 +9,8 @@ tags:
     - book
 ---
 p9、p12、p40、p42
-<[https://www.books.com.tw/products/0010590630]>
 
-[https://www.books.com.tw/products/0010590630]: https://www.books.com.tw/products/001059063
+> 反脆弱：脆弱的反義詞不是堅強，是反脆弱  
+> Antifragile: Things That Gain from Disorder  
+
+[書本連結](https://www.books.com.tw/products/0010590630)
