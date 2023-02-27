@@ -11,25 +11,18 @@ tags:
     
 #### [反脆弱：脆弱的反義詞不是堅強，是反脆弱  Antifragile: Things That Gain from Disorder](https://www.books.com.tw/products/0010590630)
 
----
-
 #### [超牢記憶法：記憶管理專家教你過腦不忘的學習力 Make It Stick: The Science of Successful Learning](https://www.books.com.tw/products/E050008435?sloc=main)
-
----
  
 #### [複雜: 走在秩序與混沌邊緣 COMPLEXITY](https://www.eslite.com/product/1001122731413555)
 
----
-
 #### [高績效教練：有效帶人、激發潛力的教練原理與實務 Coaching for Performance](https://www.books.com.tw/products/0010803759?sloc=main)
 
----
 
 #### [刻意練習：原創者全面解析，比天賦更關鍵的學習法 Secrets from the New Science of Expertise](https://www.books.com.tw/products/0010752714)
 
----
-
 #### [人性中的善良天使：一部人類新史(上下冊) The Better Angels of Our Nature: Why Violence Has Declined](https://www.books.com.tw/products/CN11227215)
+
+---
 
 ## 提升邏輯能力
 沒有繁體
