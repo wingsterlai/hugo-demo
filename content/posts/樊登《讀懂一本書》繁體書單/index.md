@@ -24,7 +24,6 @@ tags:
 
 #### [人性中的善良天使：一部人類新史(上下冊) The Better Angels of Our Nature: Why Violence Has Declined](https://www.books.com.tw/products/CN11227215)
 
----
 
 ## 提升邏輯能力
 沒有繁體
@@ -45,31 +44,26 @@ tags:
 
 #### [獻給擁抱生命的你：百歲名醫分享生命、愛與寬恕的人生智慧](https://www.books.com.tw/products/0010811596?sloc=main)
 
----
 
 #### [從A到A+：企業從優秀到卓越的奧祕 Good to Great: Why Some Companies Make the Leap... and Others Don’t](https://www.books.com.tw/products/0010845587?sloc=main)
 
 #### [清單革命：不犯錯的祕密武器 The Checklist Manifesto: How to Get Things Right](https://www.books.com.tw/products/0010800479?sloc=main)
 
----
 
 ## 經濟學知識
 
 #### [經濟學的思考方式：經濟學大師寫給大眾的入門書 Basic Economics: A Common Sense Guide to the Economy](https://www.books.com.tw/products/0010852294?gclid=CjwKCAjwxOCRBhA8EiwA0X8hi_ugx3b8PZQNcGjAtE0vkFX3yeeZJVBBys9FEEg5vq24spX1UU94MRoCxaQQAvD_BwE)
 
----
 
 ## 心理學知識
 無繁體
 
 #### [改變心理學的40項研究 Fourty Studies that changed Phycology](https://www.books.com.tw/products/CN11288656?sloc=main)
 
----
 
 ## 國學知識
 > 裡面最核心的就是《論語》、《道德經》、《莊子》、《孟子》，把孔子、老子、莊子、孟子的四本書弄明白就夠了。如果你還有興趣的話，可以讀《荀子》、《孫子兵法》、《韓非子》、《墨子》，作為前四本書的延續和擴展。
 
----
 
 ## 管理學知識
 > 學習管理學知識時，我覺得不需要讀特別老的書，讀最新的就好
@@ -80,7 +74,6 @@ tags:
 
 #### [FBI談判協商術：首席談判專家教你在日常生活裡如何活用他的絕招](https://www.books.com.tw/products/0010725672?sloc=main)
 
----
 
 #### [開口就說對話：如何在利害攸關、意見相左或情緒失控的關鍵時刻話險為夷？](https://www.books.com.tw/products/0010570731?sloc=main)
 
@@ -95,7 +88,6 @@ tags:
 
 #### [活哲學：12位大師的「生命復甦術」Philosophy for Life and Other Dangerous Situations](https://www.books.com.tw/products/0010672514?sloc=main)
 
----
 
 ## 人生經驗
 
@@ -117,7 +109,7 @@ tags:
 
 #### [1000萬人都說有效的輕鬆戒菸法 Allen Carr’s Easy Way To Stop Smoking](https://www.books.com.tw/products/0010496926?sloc=main)
 
----
+
 
 ## 人物傳記類
 
@@ -127,7 +119,7 @@ tags:
 
 #### [孔子傳(精) The Life of Confucius](https://www.books.com.tw/products/0010912923?sloc=main)
 
----
+
 
 ## 家庭親子類
 
