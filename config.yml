@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://wingster.cc/"
 languageCode: en-us
 title: Mindscapes
 theme: PaperMod
@@ -13,9 +13,7 @@ params:
 
       - **Mindscapes** 是記錄我的人生學習心得，以及分享興趣愛好的地方。
       
-      - 希望這個部落格能夠成為一個充滿啟發和思考的地方，同時也不小心幫助你發掘自己的興趣和激發創造力
-      
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper). 
+      - 若你想跟我交流想法，歡迎透過 ✉️ Email (karita82@gmail.com) 與我聯繫
 
   socialIcons: # optional
         - name: "facebook"
