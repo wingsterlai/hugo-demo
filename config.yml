@@ -8,7 +8,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: Hello. This is Wingster.
-    Content: 歡迎來到我的部落格 Mindscapes！這裡會記錄所有學習心得、閱讀心得，以及分享我的興趣愛好的地方。</br>希望這個部落格能夠成為一個充滿啟發和思考的地方，同時也能夠幫助你發掘自己的興趣和激發創造力。謝謝你來訪！
+    Content: 歡迎來到我的部落格 Mindscapes！這裡會記錄所有人生學習心得，以及分享我的興趣愛好的地方。\n 裡面的主題可能有點分散多元，希望這個部落格能夠成為一個充滿啟發和思考的地方，同時也不小心能夠幫助你發掘自己的興趣和激發創造力。謝謝你的來訪！
   socialIcons: # optional
         - name: "facebook"
           url: "http://facebook.com"
