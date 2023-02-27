@@ -30,9 +30,9 @@ params:
 
   ShowReadingTime: true
 
-  ShowShareButtons: true
+  ShowShareButtons: false
 
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
 
 menu:
   main:
