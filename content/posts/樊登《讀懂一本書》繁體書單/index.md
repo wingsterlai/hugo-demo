@@ -9,7 +9,7 @@ tags:
     - book
 ---
 
-![樊登讀懂一本書](FanDan%20book%20list.png)
+![樊登讀懂一本書](FanDan_book_cover.png)
     
 #### [反脆弱：脆弱的反義詞不是堅強，是反脆弱  Antifragile: Things That Gain from Disorder](https://www.books.com.tw/products/0010590630)
 
@@ -131,3 +131,4 @@ tags:
 
 #### [世界觀：現代年輕人必懂的科學哲學和科學史 Worldviews：An Introduction to the History and Philosophy of Science](https://www.books.com.tw/products/0010680119?sloc=main)
 
+![樊登讀懂一本書](FanDan%20book%20list.png)
