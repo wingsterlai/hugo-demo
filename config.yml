@@ -9,10 +9,10 @@ params:
   homeInfoParams:
     Title: Hello. This is Wingster.
     Content: >
-            Welcome to demo of hugo's theme PaperMod.
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-            - Do give a 🌟 on Github !
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+          Welcome to demo of hugo's theme PaperMod.
+          - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+          - Do give a 🌟 on Github !
+          - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
         - name: "facebook"
           url: "https://www.facebook.com/wingsterlai"
         - name: "instagram"
