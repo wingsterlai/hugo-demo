@@ -6,46 +6,22 @@ theme: PaperMod
 
 
 params:
-  homeInfoParams:
-    Title: Mindscapes
-    Content: >
-      - 歡迎來到 Wingster 的部落格
+    profileMode:
+        enabled: true
+        title: "<Title>" # optional default will be site title
+        subtitle: "This is subtitle"
+        imageUrl: "<image link>" # optional
+        imageTitle: "<title of image as alt>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Archive
+            url: "/archive"
+            - name: Github
+            url: "https://github.com/"
 
-      - **Mindscapes** 會記錄我的人生學習心得，以及分享興趣愛好
-      
-      - 若你想跟我交流想法，歡迎透過 ✉️ Email (wingsterlai@gmail.com) 與我聯繫
-  
-
-  socialIcons: # optional
-        - name: "facebook"
-          url: "https://www.facebook.com/wingsterlai"
-        - name: "instagram"
-          url: "https://www.instagram.com/wingsterlai/"
-        - name: "email"
-          url: "mailto:karita82@gmail.com"
-  
-  cover:
-    linkFullImages: true
-
-  ShowBreadCrumbs: true
-
-  ShowReadingTime: true
-
-  ShowShareButtons: false
-
-  ShowPostNavLinks: false
-
-menu:
-  main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 30
+    socialIcons: # optional
+        - name: "<platform>"
+            url: "<link>"
+        - name: "<platform 2>"
+            url: "<link2>"
