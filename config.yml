@@ -1,18 +1,27 @@
-baseURL: "https://wingster.cc/"
+baseURL: "https://mindscapes.wingster.cc/"
 languageCode: en-us
 title: Mindscapes
 theme: PaperMod
 
 
 params:
-  homeInfoParams:
-    Title: Mindscapes
-    Content: >
-      - 歡迎來到 Wingster 的部落格
+  env: production # to enable google analytics, opengraph, twitter-cards and schema. 
+  
+# profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Mindscapes
+    subtitle: "測試中..."
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: https://mindscapes.wingster.cc/
+      - name: Tags
+        url: https://mindscapes.wingster.cc/tags/
 
-      - **Mindscapes** 會記錄我的人生學習心得，以及分享興趣愛好
-      
-      - 若你想跟我交流想法，歡迎透過 ✉️ Email (wingsterlai@gmail.com) 與我聯繫
 
   socialIcons: # optional
         - name: "facebook"
@@ -20,18 +29,27 @@ params:
         - name: "instagram"
           url: "https://www.instagram.com/wingsterlai/"
         - name: "email"
-          url: "mailto:karita82@gmail.com"
+          url: "mailto:wingsterlai@gmail.com"
+     
   
   cover:
-    linkFullImages: true
-
-  ShowBreadCrumbs: true
+    linkFullImages: true //點擊每個 post 的 cover image 會開啟新視窗並放大
 
   ShowReadingTime: true
-
-  ShowShareButtons: false
-
-  ShowPostNavLinks: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
 
 menu:
   main:
@@ -47,3 +65,12 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+
+assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
